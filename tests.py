@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 import sys
 
 EXPECTED_NUM_OF_BTTNS = 10
-MAIN_PAGE_TITLE = "Online Bookstore: Books, NOOK ebooks, Music, Movies & Toys"
+MAIN_PAGE_TITLE = "Online Bookstore: Books, NOOK ebooks, Music, Movies & Toys | Barnes & Noble®"
 
 
 def test_verify_main_page_title(driver, pass_url):
